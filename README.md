@@ -1,2 +1,2 @@
-# SE_-Internship
+SE_Internship
 software engineering internship
